@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class CalculaSoma {
 	public static void main(String[] args) {
+		//CalculaSoma
 		int i, soma;
 		Scanner teclado = new Scanner(System.in);
 		System.out.println("Digite o 1° numero: ");
